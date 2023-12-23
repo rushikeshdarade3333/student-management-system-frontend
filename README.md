@@ -1,7 +1,7 @@
 # Student management system frontend
 Student management system is a full stack web application for managing student details efficiently and manageably. This project is the frontend part of the Student Management System, built with React.js.
 
-click for the backend - [![Backend](https://img.shields.io/badge/Backend-Link%20Here-brightgreen.svg)](https://github.com/rushikeshdarade3333/student-management-system-frontend)
+click for the backend code - [![Backend](https://img.shields.io/badge/Backend-Link%20Here-brightgreen.svg)](https://github.com/rushikeshdarade3333/student-management-system-backend)
 
 ## Developer
 
